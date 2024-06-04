@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "bdfc",
+      "name": "a",
+      "email": "a@a",
+      "birthdate": "2024-06-15",
+      "password": "123",
+      "role": "user"
+    }
+  ]
+}
